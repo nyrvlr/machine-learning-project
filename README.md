@@ -1,7 +1,5 @@
 # machine-learning-project
 
-# 1. Introdução
-
 Este projeto foi inicialmente concebido para explorar a interseção entre processamento de linguagem natural e geração de áudio, visando criar música a partir de descrições textuais detalhadas. A ideia era utilizar a base de dados MusicCaps, que fornece pares de texto e clipes musicais, para desenvolver um modelo capaz de traduzir nuances textuais em características musicais, como gênero, humor e ritmo. Apesar de inovadora, a abordagem apresentou desafios significativos em termos de processamento computacional e complexidade do modelo, levando-nos a reconsiderar o escopo do trabalho.
 
 Dessa forma, decidimos redirecionar o foco para um problema prático e mais alinhado com nossos recursos: a análise de dados educacionais do ENEM (Exame Nacional do Ensino Médio). Essa nova proposta explora a identificação de padrões e a previsão de aprovação de alunos com base em informações contidas na base do ENEM e em dados históricos de notas de corte de nossa faculdade.
